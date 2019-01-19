@@ -1,0 +1,7 @@
+Datasets/
+*.pickle
+*.model
+*.jpg
+*.docx
+logs/
+
